@@ -2,7 +2,7 @@
 
 
 
-Hi there! I work in the National Estuarine Research Reserve System as the System-Wide Monitoring Program Manager at the Guana Tolomato Matanzas NERR in St. Augustine, FL. This program collects 15-minute continuous water quality and weather data and therefore, I quickly jumped into the work of R programming in order to be able to tackle working with this data (reaching the end of an Excel spreadsheet was a *moment* for me). 
+Hi there! I work in the National Estuarine Research Reserve System as the System-Wide Monitoring Program Manager at the Guana Tolomato Matanzas NERR in St. Augustine, FL. This program collects 15-minute continuous water quality and weather data and therefore, I quickly jumped into R programming in order to be able to tackle working with this data (reaching the end of an Excel spreadsheet was a *moment* for me). 
 
 ### What am I up to?
 
