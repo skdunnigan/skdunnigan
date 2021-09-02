@@ -8,7 +8,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - 🧪 I'm currently serving as the data manager for a NERRS Science Collaborative Catalyst project, ["Refining techniques for high-frequency monitoring of chlorophyll in the NERRS"](https://nerrssciencecollaborative.org/project/Dix20) where I am assisting in the collection, maintenance, QAQC, and analysis of extracted chlorophyll a and chlorophyll a measured by fluorescence with Xylem YSI's Total Algae Sensor for the EXO platform. The project code is here [`chla-nerrs-catalyst`](https://github.com/skdunnigan/chla-nerrs-catalyst) and includes my first attempt at a GitHub Pages site! (💃Personal achievement!)
 
-- 👩‍🏫 I also am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) such as
+- 👩‍🏫 I also am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) where our goal is to try to make R a little less intimidating for new and infrequent users.
    - [Integrating R into your work with RStudio and the tidyverse](https://github.com/skdunnigan/2020-06_IntegrateR) in 2020
    - [R for the Infrequent UseR]() in 2021 (materials currently in development)
     
