@@ -9,12 +9,12 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 - 🧪 I'm currently serving as the data manager for a NERRS Science Collaborative Catalyst project, ["Refining techniques for high-frequency monitoring of chlorophyll in the NERRS"](https://nerrssciencecollaborative.org/project/Dix20) where I am assisting in the collection, maintenance, QAQC, and analysis of extracted chlorophyll a and chlorophyll a measured by fluorescence with Xylem YSI's Total Algae Sensor for the EXO platform. The project code is here [`chla-nerrs-catalyst`](https://github.com/skdunnigan/chla-nerrs-catalyst) and includes my first attempt at a GitHub Pages site! (💃Personal achievement!)
 
 - 👩‍🏫 I also am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) such as
-    - [Integrating R into your work with RStudio and the tidyverse](https://github.com/skdunnigan/2020-06_IntegrateR) in 2020
-    - [R for the Infrequent UseR]() in 2021 (materials currently in development)
+   - [Integrating R into your work with RStudio and the tidyverse](https://github.com/skdunnigan/2020-06_IntegrateR) in 2020
+   - [R for the Infrequent UseR]() in 2021 (materials currently in development)
     
 - As always, I'm finding up new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. 
-    - [`gtmnut`](https://github.com/skdunnigan/gtmnut) - a project to view nutrient data from the GTMNERR collected from 2002-present. 
-    - [`guana`](https://github.com/skdunnigan/guana) - a project that produced a [Two-Year summary report](https://www.researchgate.net/publication/337257540_Guana_Water_Quality_Two-Year_Summary_Report_July_2017-June_2019) for a local water quality project with code used by graduate students and additional researchers. We are also working on a four-year report to be coming out sometime in 2021...
+   - [`gtmnut`](https://github.com/skdunnigan/gtmnut) - a project to view nutrient data from the GTMNERR collected from 2002-present. 
+   - [`guana`](https://github.com/skdunnigan/guana) - a project that produced a [Two-Year summary report](https://www.researchgate.net/publication/337257540_Guana_Water_Quality_Two-Year_Summary_Report_July_2017-June_2019) for a local water quality project with code used by graduate students and additional researchers. We are also working on a four-year report to be coming out sometime in 2021...
 
 ### Experience
 
