@@ -14,7 +14,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
     
 - As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. 
    - [`GTMNERR/swmp-nut`](https://github.com/GTMNERR/swmp-nut) - a project to view nutrient data from the GTMNERR collected from 2002-present. 
-   - [`guana`](https://github.com/skdunnigan/guana) - a project that produced a [Two-Year summary report](https://www.researchgate.net/publication/337257540_Guana_Water_Quality_Two-Year_Summary_Report_July_2017-June_2019) for a local water quality project with code used by graduate students and additional researchers. We are also working on a four-year report to be coming out sometime in 2021...keep an eye on it here: [`GTMNERR/guana-nut`](https://github.com/GTMNERR/guana-nut)
+   - [`guana`](https://github.com/skdunnigan/guana) - a project that produced a [Two-Year summary report](https://www.researchgate.net/publication/337257540_Guana_Water_Quality_Two-Year_Summary_Report_July_2017-June_2019) for a local water quality project with code used by graduate students and additional researchers. [Olivia Roorbach](https://github.com/oroorbach) are also working on a four-year report to be coming out sometime in 2021...keep an eye on it here: [`GTMNERR/guana-nut`](https://github.com/GTMNERR/guana-nut)
 
 ### Experience
 
