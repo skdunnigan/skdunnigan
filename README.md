@@ -8,7 +8,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - 👩‍🏫 I also am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) where our goal is to try to make R a little less intimidating for new and infrequent users.
    - [Integrating R into your work with RStudio and the tidyverse](https://github.com/skdunnigan/2020-06_IntegrateR) in 2020
-   - [R for the Infrequent UseR]() in 2021 (materials currently in development)
+   - [R for the Infrequent UseR](https://github.com/skdunnigan/2021-infrequent-useR) given virtually on September 23-24, 2021 as part of an in-house R workshop series with the National Estuarine Research Reserves of the Gulf (materials currently in development)
     
 - As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. 
    - [`GTMNERR/swmp-nut`](https://github.com/GTMNERR/swmp-nut) - a project to view nutrient data from the GTMNERR collected from 2002-present. 
