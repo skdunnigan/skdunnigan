@@ -23,8 +23,8 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 - 2021
    - R For the Infrequent UseR (virtual): a workshop I taught on 2021 September 23-24 as part of a series of R workshops sponsored by the Gulf and Florida National Estuarine Research Reserves (NERRs). Materials at [`2021-infrequent-useR`](https://github.com/skdunnigan/2021-infrequent-useR)
 - 2020
-   - Integrating R into your work with RStudio and the tidyverse (virtual): a workshop I co-taught with [Kim Cressman](https://github.com/swmpkim) that was split into four days and covered data visualization, wrangling, and basic statistical outputs on 2020 June 18-19 and 25-26 hosted by the Guana Tolomato Matanzas NERR.
-   - Integrating R into your work with RStudio and the tidyverse (in-person): a workshop I co-taught with [Kim Cressman](https://github.com/swmpkim) in Moss Point, MS that covered data visualization, wrangling, and basic statistical outputs on 2020 February 19-20 hosted by the Grand Bay NERR.
+   - Integrating R into your work with RStudio and the tidyverse (virtual): a workshop I co-taught with [Kim Cressman](https://github.com/swmpkim) that was split into four days and covered data visualization, wrangling, and basic statistical outputs on 2020 June 18-19 and 25-26 hosted by the Guana Tolomato Matanzas NERR. Materials at [`2020-06_IntegrateR`](https://github.com/skdunnigan/2020-06_IntegrateR)
+   - Integrating R into your work with RStudio and the tidyverse (in-person): a workshop I co-taught with [Kim Cressman](https://github.com/swmpkim) in Moss Point, MS that covered data visualization, wrangling, and basic statistical outputs on 2020 February 19-20 hosted by the Grand Bay NERR. Materials at: [`swmpkim/2020-02_GBNERR_Rworkshop`](https://github.com/swmpkim/2020-02_GBNERR_Rworkshop)
 - 2019
    - The Next Step with R: Data Management, Graphics, and Functions: [Coastal and Estuarine Research Federation (CERF) 2019 Biennial Conference](https://www.cerf.science/the-next-step-with-r-data-management-graphics-and-functions) workshop, 2019 November 3 in Mobile, AL co-taught with [Kim Cressman](https://github.com/swmpkim)
 
