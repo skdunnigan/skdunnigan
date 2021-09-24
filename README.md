@@ -6,9 +6,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - 🧪 I'm currently serving as the data manager for a NERRS Science Collaborative Catalyst project, ["Refining techniques for high-frequency monitoring of chlorophyll in the NERRS"](https://nerrssciencecollaborative.org/project/Dix20) where I am assisting in the collection, maintenance, QAQC, and analysis of extracted chlorophyll a and chlorophyll a measured by fluorescence with Xylem YSI's Total Algae Sensor for the EXO platform. The project code is here [`chla-nerrs-catalyst`](https://github.com/skdunnigan/chla-nerrs-catalyst) and includes my first attempt at a GitHub Pages site! (💃Personal achievement!)
 
-- 👩‍🏫 I also am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) where our goal is to try to make R a little less intimidating for new and infrequent users.
-   - [Integrating R into your work with RStudio and the tidyverse](https://github.com/skdunnigan/2020-06_IntegrateR) in 2020
-   - [R for the Infrequent UseR](https://github.com/skdunnigan/2021-infrequent-useR) given virtually on September 23-24, 2021 as part of an in-house R workshop series with the National Estuarine Research Reserves of the Gulf (materials currently in development)
+- 👩‍🏫 I also am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) where our goal is to try to make R a little less intimidating for new and infrequent users. Giving the `bookdown` package a try!
     
 - As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. 
    - [`GTMNERR/swmp-nut`](https://github.com/GTMNERR/swmp-nut) - a project to view nutrient data from the GTMNERR collected from 2002-present. 
@@ -19,6 +17,16 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 - 2016 - present: System-Wide Monitoring Program (SWMP) Manager (Guana Tolomato Matanzas NERR), contracted through University of North Florida.
 - 2013 - present: Adjunct Instructor (University of North Florida)
 - 2015 - 2016: Oyster Condition Assessment Field Technician (Florida Department of Environmental Protection)
+
+### Teaching
+
+- 2021
+   - R For the Infrequent UseR (virtual): a workshop I taught on 2021 September 23-24 as part of a series of R workshops sponsored by the Gulf and Florida National Estuarine Research Reserves (NERRs). Materials at [`2021-infrequent-useR`](https://github.com/skdunnigan/2021-infrequent-useR)
+- 2020
+   - Integrating R into your work with RStudio and the tidyverse (virtual): a workshop I co-taught with [Kim Cressman](https://github.com/swmpkim) that was split into four days and covered data visualization, wrangling, and basic statistical outputs on 2020 June 18-19 and 25-26 hosted by the Guana Tolomato Matanzas NERR.
+   - Integrating R into your work with RStudio and the tidyverse (in-person): a workshop I co-taught with [Kim Cressman](https://github.com/swmpkim) in Moss Point, MS that covered data visualization, wrangling, and basic statistical outputs on 2020 February 19-20 hosted by the Grand Bay NERR.
+- 2019
+   - The Next Step with R: Data Management, Graphics, and Functions: [Coastal and Estuarine Research Federation (CERF) 2019 Biennial Conference](https://www.cerf.science/the-next-step-with-r-data-management-graphics-and-functions) workshop, 2019 November 3 in Mobile, AL co-taught with [Kim Cressman](https://github.com/swmpkim)
 
 ### Education
 
