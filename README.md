@@ -15,7 +15,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 ### Experience
 
 - 2016 - present: System-Wide Monitoring Program (SWMP) Manager (Guana Tolomato Matanzas NERR), contracted through University of North Florida.
-- 2013 - 2022: Adjunct Instructor (University of North Florida)
+- 2013 - 2021: Adjunct Instructor (University of North Florida)
 - 2015 - 2016: Oyster Condition Assessment Field Technician (Florida Department of Environmental Protection)
 
 ### Teaching
