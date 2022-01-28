@@ -15,11 +15,13 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 ### Experience
 
 - 2016 - present: System-Wide Monitoring Program (SWMP) Manager (Guana Tolomato Matanzas NERR), contracted through University of North Florida.
-- 2013 - present: Adjunct Instructor (University of North Florida)
+- 2013 - 2022: Adjunct Instructor (University of North Florida)
 - 2015 - 2016: Oyster Condition Assessment Field Technician (Florida Department of Environmental Protection)
 
 ### Teaching
 
+- 2022
+   - Data Visualization: a workshop I created and led on 2022 January 27-28 as part of a series of R workshops sponsored by the Gulf and Florida National Estuarine Research Reserves (NERRs). Materials at [`2022-01_data-viz-workshop`](https://github.com/skdunnigan/2022-01_data-viz-workshop) 
 - 2021
    - R For the Infrequent UseR (virtual): a workshop I taught on 2021 September 23-24 as part of a series of R workshops sponsored by the Gulf and Florida National Estuarine Research Reserves (NERRs). Materials at [`2021-infrequent-useR`](https://github.com/skdunnigan/2021-infrequent-useR)
 - 2020
