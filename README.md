@@ -6,8 +6,6 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 ### What am I up to?
 
-- 🧪 I'm currently serving as the data manager for a NERRS Science Collaborative Catalyst project, ["Refining techniques for high-frequency monitoring of chlorophyll in the NERRS"](https://nerrssciencecollaborative.org/project/Dix20) where I am assisting in the collection, maintenance, QAQC, and analysis of extracted chlorophyll a and chlorophyll a measured by fluorescence with Xylem YSI's Total Algae Sensor for the EXO platform. The project code is here [`chla-nerrs-catalyst`](https://github.com/skdunnigan/chla-nerrs-catalyst) and includes my first attempt at a GitHub Pages site! (💃Personal achievement!)
-
 - 🔬 I am serving as project manager for an in-house project linking the GTMNERR's long-term plankton monitoring data with it's SWMP data. My colleagues on the project are Dr. Nikki Dix, [Gabriela Canas](https://github.com/gcanas1), and [Olivia Roorbach](https://github.com/oroorbach).
 
 - 👩‍🏫 I am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) where our goal is to try to make R a little less intimidating for new and infrequent users. Giving the `bookdown` package a try!
@@ -19,6 +17,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 ### Experience
 
 - 2016 - present: System-Wide Monitoring Program (SWMP) Manager (Guana Tolomato Matanzas NERR), contracted through University of North Florida.
+- 2020 - 2022: Data Manager for NERRS Science Collaborative Catalyst project ["Refining techniques for high-frequency monitoring of chlorophyll in the NERRS"](https://nerrssciencecollaborative.org/project/Dix20). The project code is here [`chla-nerrs-catalyst`](https://github.com/skdunnigan/chla-nerrs-catalyst) and includes my first attempt at a GitHub Pages site! (💃Personal achievement!)
 - 2013 - 2021: Adjunct Instructor (University of North Florida)
 - 2015 - 2016: Oyster Condition Assessment Field Technician (Florida Department of Environmental Protection)
 
