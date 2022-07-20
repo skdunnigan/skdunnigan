@@ -5,14 +5,13 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 📫 How to reach me: email is best @ Shannon.Dunnigan@dep.state.fl.us
 
 ### What am I up to?
-
-- 🔬 I am serving as project manager for an in-house project linking the GTMNERR's long-term plankton monitoring data with it's SWMP data. My colleagues on the project are Dr. Nikki Dix, [Gabriela Canas](https://github.com/gcanas1), and [Olivia Roorbach](https://github.com/oroorbach).
-
-- 👩‍🏫 I am working to compile materials for several R workshops I have or will be leading, many co-authored with [Kim Cressman](https://github.com/swmpkim) where our goal is to try to make R a little less intimidating for new and infrequent users. Giving the `bookdown` package a try!
-    
+ 
 - As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. 
    - [`GTMNERR/swmp-nut`](https://github.com/GTMNERR/swmp-nut) - a project to view nutrient data from the GTMNERR collected from 2002-present. 
    - [`guana`](https://github.com/skdunnigan/guana) - a project that produced a [Two-Year summary report](https://www.researchgate.net/publication/337257540_Guana_Water_Quality_Two-Year_Summary_Report_July_2017-June_2019) for a local water quality project with code used by graduate students and additional researchers. 
+   - [`GTMNERR/swmp-abiotic`](https://github.com/GTMNERR/swmp-abiotic) - a repository of all code working with the abiotic SWMP data at the GTMNERR.
+
+- 🔬 I am serving as project manager for an in-house project linking the GTMNERR's long-term plankton monitoring data with it's SWMP data. My colleagues on the project are Dr. Nikki Dix, [Gabriela Canas](https://github.com/gcanas1), and [Olivia Roorbach](https://github.com/oroorbach).
 
 ### Experience
 
@@ -52,4 +51,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👩‍🏫 I 
 -->
