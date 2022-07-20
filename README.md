@@ -11,6 +11,8 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
    - [`guana`](https://github.com/skdunnigan/guana) - a project that produced a [Two-Year summary report](https://www.researchgate.net/publication/337257540_Guana_Water_Quality_Two-Year_Summary_Report_July_2017-June_2019) for a local water quality project with code used by graduate students and additional researchers. 
    - [`GTMNERR/swmp-abiotic`](https://github.com/GTMNERR/swmp-abiotic) - a repository of all code working with the abiotic SWMP data at the GTMNERR.
 
+- 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others. This is my first large shiny project.
+
 - 🔬 I am serving as project manager for an in-house project linking the GTMNERR's long-term plankton monitoring data with it's SWMP data. My colleagues on the project are Dr. Nikki Dix, [Gabriela Canas](https://github.com/gcanas1), and [Olivia Roorbach](https://github.com/oroorbach).
 
 ### Experience
