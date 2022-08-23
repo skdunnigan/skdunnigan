@@ -15,7 +15,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others. This is my first large shiny project.
 
-- 🔬 I am serving as project manager for an in-house project linking the GTMNERR's long-term plankton monitoring data with it's SWMP data. My colleagues on the project are Dr. Nikki Dix, [Gabriela Canas](https://github.com/gcanas1), and [Olivia Roorbach](https://github.com/oroorbach).
+- 🔬 I am working to integrate my team and to collaboratively work with Quarto and GitHub in our projects.
 
 ### Experience
 
