@@ -14,8 +14,6 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - 🔬 I am working to work collaboratively with my team with Quarto and GitHub in our projects.
 
-- I am also working on a book, ["Working with SWMP Data Tools"](https://skdunnigan.github.io/swmp-data-edu/), that walks through R-related tools that help make working with SWMP data easier. Feel free to check it out as I work on it and provide feedback, I'm grateful for any! 
-
 ### Experience
 
 - 2016 - present: System-Wide Monitoring Program (SWMP) Manager (Guana Tolomato Matanzas NERR), contracted through University of North Florida.
