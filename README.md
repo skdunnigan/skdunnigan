@@ -9,13 +9,13 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 - I am the primary administrator for the [GTMNERR](https://github.com/GTMNERR) organization on GitHub.
 
 - As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. 
-   - [`GTMNERR/swmp-nut`](https://github.com/GTMNERR/swmp-nut) - a project to view nutrient data from the GTMNERR collected from 2002-present. 
-   - [`guana`](https://github.com/skdunnigan/guana) - a project that produced a [Two-Year summary report](https://www.researchgate.net/publication/337257540_Guana_Water_Quality_Two-Year_Summary_Report_July_2017-June_2019) for a local water quality project with code used by graduate students and additional researchers. 
-   - [`GTMNERR/swmp-abiotic`](https://github.com/GTMNERR/swmp-abiotic) - a repository of all code working with the abiotic SWMP data at the GTMNERR.
+   - [`GTMNERR/swmp-abiotic`](https://github.com/GTMNERR/swmp-abiotic) - a repository of all code working with the abiotic SWMP data at the GTMNERR (plus a variety of other SWMP-related repositories, including a report that is updated quarterly [`GTMNERR/swmp-quarter-report`](https://gtmnerr.github.io/swmp-quarter-report).
 
-- 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others. This is my first large shiny project.
+- 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others. 
 
 - 🔬 I am working to integrate my team and to collaboratively work with Quarto and GitHub in our projects.
+
+- I am also working on a book, ["Working with SWMP Data Tools"](https://skdunnigan.github.io/swmp-data-edu/), that walks through R-related tools that help make working with SWMP data easier. Feel free to check it out as I work on it and provide feedback, I'm grateful for any! 
 
 ### Experience
 
