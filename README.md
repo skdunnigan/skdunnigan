@@ -8,8 +8,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - I am the primary administrator for the [GTMNERR](https://github.com/GTMNERR) organization on GitHub.
 
-- As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. 
-   - [`GTMNERR/swmp-abiotic`](https://github.com/GTMNERR/swmp-abiotic) - a repository of all code working with the abiotic SWMP data at the GTMNERR (plus a variety of other SWMP-related repositories, including a report that is updated quarterly [`GTMNERR/swmp-quarter-report`](https://gtmnerr.github.io/swmp-quarter-report).
+- As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. Efforts such as [`GTMNERR/swmp-abiotic`](https://github.com/GTMNERR/swmp-abiotic) - a repository of all code working with the abiotic SWMP data at the GTMNERR; plus a variety of other SWMP-related work, including a report that is updated quarterly [`GTMNERR/swmp-quarter-report`](https://gtmnerr.github.io/swmp-quarter-report).
 
 - 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others. 
 
