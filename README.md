@@ -12,7 +12,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others. 
 
-- 🔬 I am working to work collaboratively with my team with Quarto and GitHub in our projects.
+- 🔬 I am integrating Quarto and GitHub with my team in our projects and helping to develop functional workflows for varying experience levels on the teams. 
 
 ### Experience
 
