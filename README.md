@@ -25,6 +25,8 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 ### Teaching
 
+I desire to make programming less intimidating for beginners and to help people them with their R-programming and data science workflows, especially beginners! My favorite things to teach are data visualizations. See some of my teaching experience below:
+
 - 2022
    - Data Visualization: a workshop I created and led on 2022 January 27-28 as part of a series of R workshops sponsored by the Gulf and Florida National Estuarine Research Reserves (NERRs). Materials at [`2022-01_data-viz-workshop`](https://github.com/skdunnigan/2022-01_data-viz-workshop) 
 - 2021
