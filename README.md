@@ -20,7 +20,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 ### Experience
 
 - 2016 - present: System-Wide Monitoring Program (SWMP) Manager (Guana Tolomato Matanzas NERR), contracted through University of North Florida.
-- 2020 - 2022: Data Manager for NERRS Science Collaborative Catalyst project ["Refining techniques for high-frequency monitoring of chlorophyll in the NERRS"](https://nerrssciencecollaborative.org/project/Dix20). The project code is here [`chla-nerrs-catalyst`](https://github.com/skdunnigan/chla-nerrs-catalyst) and includes my first attempt at a GitHub Pages site! (💃Personal achievement!)
+- 2020 - 2022: Data Manager for NERRS Science Collaborative Catalyst project ["Refining techniques for high-frequency monitoring of chlorophyll in the NERRS"](https://nerrssciencecollaborative.org/project/Dix20). The project code is here [`chla-nerrs-catalyst`](https://github.com/skdunnigan/chla-nerrs-catalyst) and includes my first attempt at a GitHub Pages site built with R Markdown! (💃Personal achievement!)
 - 2013 - 2021: Adjunct Instructor (University of North Florida)
 - 2015 - 2016: Oyster Condition Assessment Field Technician (Florida Department of Environmental Protection)
 
