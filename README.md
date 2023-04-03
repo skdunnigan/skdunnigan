@@ -8,11 +8,12 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - I am the primary administrator for the [GTMNERR](https://github.com/GTMNERR) organization on GitHub.
 
-- 🔬 I am integrating Quarto and GitHub with my team in our projects and helping to develop functional workflows for varying experience levels on the teams. As an example, check out this report that is updated quarterly [`GTMNERR/swmp-quarter-report`](https://gtmnerr.github.io/swmp-quarter-report).
+- 🔬 I am integrating Quarto and GitHub with my team in our projects and helping to develop functional workflows for varying experience levels on the teams. 
+   - Check out the GTMNERR SWMP quarterly report [`GTMNERR/swmp-quarter-report`](https://gtmnerr.github.io/swmp-quarter-report) or 2022 Annual Report [`GTMNERR/2022-swmp-annual-report`](https://gtmnerr.github.io/2022-swmp-annual-report) for examples.
 
 - As always, I'm finding new ways to analyze and visualize our continuous water quality and weather data with the NERRs in various applications. Efforts such as [`GTMNERR/swmp-abiotic`](https://github.com/GTMNERR/swmp-abiotic) - a repository of all code working with the abiotic SWMP data at the GTMNERR
 
-- 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others. 
+- 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others.
 
 -  My team is working on developing R-related tools for our QAQC process to better track helpful scripts, enhance our workflow, reduce human-error in our process, and to also integrate new visualizations and calculations to help QAQC our long-term monitoring data. Hoping to roll out this repository in the next few months!
 
