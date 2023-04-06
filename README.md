@@ -1,5 +1,4 @@
 <h1 align = "center">SHANNON DUNNIGAN KIMMEL</h1>
-<h3 align = "center">Creative, hands-on, and detail-oriented professional with a passion for data visualization and scientific inquiry</h2>
 
 Hi there! I work in the National Estuarine Research Reserve System as the System-Wide Monitoring (SWMP) Program Manager at the Guana Tolomato Matanzas NERR in St. Augustine, FL. This program collects 15-minute continuous water quality and weather data and therefore, I quickly jumped into R programming in order to be able to tackle working with this data (reaching the end of an Excel spreadsheet was a *moment* for me). 
 
