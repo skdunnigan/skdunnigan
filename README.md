@@ -2,7 +2,7 @@
 
 Hi there! I work in the National Estuarine Research Reserve System as the System-Wide Monitoring (SWMP) Program Manager at the Guana Tolomato Matanzas NERR in St. Augustine, FL. This program collects 15-minute continuous water quality and weather data and therefore, I quickly jumped into R programming in order to be able to tackle working with this data (reaching the end of an Excel spreadsheet was a *moment* for me). 
 
-📫 How to reach me: email is best @ Shannon.Dunnigan@dep.state.fl.us
+📫 How to reach me: email is best @ Shannon.Dunnigan@dep.state.fl.us Check out my [resume](https://github.com/skdunnigan/quarto-resume/blob/main/sdk_resume.pdf) here
 
 ### What am I up to?
 
