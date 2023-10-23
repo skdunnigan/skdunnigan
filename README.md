@@ -6,6 +6,8 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 ### What am I up to?
 
+- I am currently analyzing 20-years of monthly chlorophyll-*a* data from two long-term monitoring programs in the St. Augustine region [`gtm-chla-20yr`](https://github.com/skdunnigan/gtm-chla-20yr) using generalized additive models, mixed-meta regression analysis, decomposition of timeseries, seasonality, and changepoint analysis.
+  
 - I am the primary administrator for the [GTMNERR](https://github.com/GTMNERR) organization on GitHub.
 
 - 🔬 I am integrating Quarto and GitHub with my team in our projects and helping to develop functional workflows for varying experience levels on the teams. 
