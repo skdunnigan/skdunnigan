@@ -6,7 +6,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 ### What am I up to?
 
-- I am currently analyzing 20-years of monthly chlorophyll-*a* data from two long-term monitoring programs in the St. Augustine region [`gtm-chla-20yr`](https://github.com/skdunnigan/gtm-chla-20yr) using generalized additive models, mixed-meta regression analysis, decomposition of timeseries, seasonality, and changepoint analysis.
+- I am currently analyzing 20-years of monthly chlorophyll-*a* data from two long-term monitoring programs in the St. Augustine region [`gtm-chla-20yr`](https://github.com/skdunnigan/gtm-chla-20yr) using generalized additive models, mixed-meta regression analysis, and decomposition of timeseries for seasonality.
   
 - I am the primary administrator for the [GTMNERR](https://github.com/GTMNERR) organization on GitHub.
 
@@ -14,8 +14,6 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
    - Check out the GTMNERR SWMP quarterly report [`GTMNERR/swmp-quarter-report`](https://gtmnerr.github.io/swmp-quarter-report) or 2022 Annual Report [`GTMNERR/2022-swmp-annual-report`](https://gtmnerr.github.io/2022-swmp-annual-report) for examples.
 
 - 🌱 I’m currently learning how to build my first shiny-based application to be able to share the GTMNERR SWMP data with others.
-
--  My team is working on developing R-related tools for our QAQC process to better track helpful scripts, enhance our workflow, reduce human-error in our process, and to also integrate new visualizations and calculations to help QAQC our long-term monitoring data. Hoping to roll out this repository in the next few months!
 
 ### Experience
 
