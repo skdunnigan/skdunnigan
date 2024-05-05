@@ -8,7 +8,7 @@ Hi there! I work in the National Estuarine Research Reserve System as the System
 
 - I am currently analyzing 20-years of monthly chlorophyll-*a* data from two long-term monitoring programs in the St. Augustine region [`gtm-chla-20yr`](https://github.com/skdunnigan/gtm-chla-20yr) using generalized additive models, mixed-meta regression analysis, and decomposition of timeseries for seasonality.
 
-- I am recently published a manuscript analyzing six years of monthly oyster spat monitoring in the Guana Tolomato Matanzas estuary [`spat`](https://github.com/skdunnigan/spat) using generalized linear models and pairing these patterns with continuous water quality data in similar areas.
+- I recently published a manuscript analyzing six years of monthly oyster spat monitoring in the Guana Tolomato Matanzas estuary [`spat`](https://github.com/skdunnigan/spat) using generalized linear models and pairing these patterns with continuous water quality data in similar areas.
   
 - I am the primary administrator for the [GTMNERR](https://github.com/GTMNERR) organization on GitHub.
 
