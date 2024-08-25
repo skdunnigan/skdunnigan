@@ -1,6 +1,6 @@
 <h1 align = "center">SHANNON DUNNIGAN KIMMEL</h1>
 
-Hi there! I am a freelance developer specializing in R and Quarto projects with a background in environmental and biological data (i.e. water quality). 
+Hi there! I am a freelancer specializing in R and Quarto projects with a background in environmental and biological data (i.e. water quality). 
 
 📫 How to reach me: email is best @ Shannon.D.Kimmel@gmail.com Check out my [resume here.](https://github.com/skdunnigan/quarto-resume/blob/main/sdk_resume-wq.pdf)
 
